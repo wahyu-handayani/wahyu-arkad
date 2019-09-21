@@ -37,5 +37,24 @@ Contoh perintah:
 ```
 text(3,4)
 ```
-Menampilkan barisan fibonacci dala 4 baris 3 kolom, output:
+Menampilkan barisan fibonacci dalam 4 baris 3 kolom, output:
 ```
+0   1   1   
+2   3   5   
+8   13   21   
+34   55   89 
+```
+## Soal 5
+Menampilkan total mie yang akan diterima ketika seseorang membeli pada tanggal "x". Dengan total mie telah ditambahkan dengan bonus mie yang didapat. Parameter yang digunakan adalah Tanggal dan Uang yang akan digunakan untuk belanja.
+Contoh perintah:
+```
+Masukkan tanggal: 13
+
+Masukkan uang: 60000
+```
+Output:
+```
+Total Mie:  32
+```
+## Soal 6
+Menampilkan database pada MongoDB
