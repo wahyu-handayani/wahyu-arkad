@@ -31,6 +31,16 @@ Output: ```False``` karena tidak mengandung minimal 1 simbol. Sehingga dengan me
 ceking('145@sAkLmn')
 ```
 Diperoleh output: ``` True ```
+## Soal 3
+Menghitung banyaknya jabat tangan menggunakan perulangan.
+Dengan menggunakan fungsi ``` jabat ``` dan ```n``` merupakan banyaknya tamu, maka banyaknya jabat tangan dapat dihitung menggunakan perintah berikut
+```
+jabat(6)
+```
+Output:
+```
+15
+```
 ## Soal 4
 Function menampilkan barisan Fibonacci dengan memetakan menjadi x baris dan y kolom.
 Contoh perintah:
